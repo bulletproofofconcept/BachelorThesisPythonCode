@@ -8,6 +8,10 @@ from scipy.interpolate import LinearNDInterpolator
 
 
 """
+Author: Maxim Glyzhev
+e-Mail: fn6237@kit.edu
+Affiliation: KIT Institut der Stochastik.
+
 This files contains function which convert a point cloud to a regular grid.
 However, this files does not the cotain the convesrion code for Bolu-2 and Corona-A
 
