@@ -1,4 +1,8 @@
 """
+Author: Maxim Glyzhev
+e-Mail: fn6237@kit.edu
+Affiliation: KIT Institut der Stochastik.
+
 Generate gridded height maps (raw + detrended) for:
   - Bolu_2_XYZ.mat
   - Corona_A_XYZ.mat
