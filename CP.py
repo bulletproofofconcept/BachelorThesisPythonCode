@@ -3,6 +3,10 @@ import numpy as np
 from numpy.typing import ArrayLike
 
 """
+Author: Maxim Glyzhev
+e-Mail: fn6237@kit.edu
+Affiliation: KIT Institut der Stochastik.
+
 This code implements the change probability Hurst exponent estimator on the fBm
 model
 """
