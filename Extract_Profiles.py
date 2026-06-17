@@ -5,6 +5,10 @@ from scipy.interpolate import RegularGridInterpolator
 
 def change_probabilities_2D(grid, x_coords, y_coords, phi, taus, delta=1):
     """
+    Author: Maxim Glyzhev
+    e-Mail: fn6237@kit.edu
+    Affiliation: KIT Institut der Stochastik.
+
     Berechnet die Change-Probability Matrix für ein 2D-Feld und die Hurst-Exponenten.
 
     grid      : 2D numpy array, z.B. Z_grid aus NPZ
