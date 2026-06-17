@@ -10,6 +10,10 @@ def circulant_fBm(
     rng: np.random.Generator | None = None,
 ):
     """
+    Author: Maxim Glyzhev
+    e-Mail: fn6237@kit.edu
+    Affiliation: KIT Institut der Stochastik.
+
     Generate TWO independent fractional Brownian motion (fBm) profiles of length m
     (including the initial 0) using a circulant-embedding FFT method on fractional Gaussian noise (fGn).
 
