@@ -21,6 +21,10 @@ def cp_hurst_polar(
     dpi=600
 ):
     """
+    Author: Maxim Glyzhev
+    e-Mail: fn6237@kit.edu
+    Affiliation: KIT Institut der Stochastik.
+    
     One-shot function:
       - input: image path OR 2D height matrix
       - computes directional CP p_phi(tau) and H_phi(tau)=h(p)
